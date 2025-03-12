@@ -1,4 +1,4 @@
-# Hi there, I'm M. Ulinuha As Shiddiqy (Ulin) 👋
+# Hi there, I'm Linier 👋
 
 ## 🚀 About Me
 
