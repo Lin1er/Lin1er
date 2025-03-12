@@ -21,7 +21,6 @@ I'm a passionate **software developer** with a strong interest in **technology**
 
 ## 🌐 Connect With Me
 
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
 - 💼 LinkedIn: [Ulinuha](https://www.linkedin.com/in/m-ulinuha-as-shiddiqy-3a409b340/)
 - 📧 Email: ulinuha@example.com
 
