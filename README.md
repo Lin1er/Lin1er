@@ -25,10 +25,8 @@ I'm a passionate software developer with a strong interest in technology, IoT, a
 
 ## 📈 GitHub Stats
 <p align="left">
-<a href="https://github.com/lin1er">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lin1er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lin1er&layout=compact&theme=algolia"/>
-</a>
 </p>
 
 ## 📫 Contact Me
