@@ -2,9 +2,15 @@
 
 ## 🕶️ About Me
 
-I'm a passionate software developer with a strong interest in technology, IoT, and web development. Since middle school, I've been building Discord bots, Minecraft servers, and various web apps. Now, I'm diving deeper into Next.js, Laravel, and ESP32 projects.
+I'm a passionate full-stack developer with expertise in modern web technologies and IoT development. My journey in programming started in middle school, where I began building Discord bots and Minecraft servers. Over the years, I've expanded my skills to include web application development, database management, and embedded systems programming.
 
-🎓 Current Focus: Preparing for university in the Informatics faculty while working on exciting IoT and web development projects.
+Currently, I specialize in:
+- **Frontend Development**: React, Next.js, and modern CSS frameworks
+- **Backend Development**: Laravel, Node.js, and API design
+- **IoT Projects**: ESP32 microcontrollers and sensor integration
+- **Database Management**: MySQL and data modeling
+
+🎓 **Current Status**: Computer Science student focused on advancing my expertise in software engineering, with particular interest in full-stack web development and IoT solutions.
 
 ## 🚀 Tech Stack
 
