@@ -10,7 +10,7 @@ Currently, I specialize in:
 - **IoT Projects**: ESP32 microcontrollers and sensor integration
 - **Database Management**: MySQL and data modeling
 
-🎓 **Current Status**: Computer Science student focused on advancing my expertise in software engineering, with particular interest in full-stack web development and IoT solutions.
+🎓 **Current Status**: Computer Science student focused on advancing my expertise in software engineering, with particular interest in full-stack web development, IoT solutions, and WEB3.
 
 ## 🚀 Tech Stack
 
