@@ -1,6 +1,6 @@
-<a href="https://jameshub.fun">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=M.%20Ulinuha%20As%20Shiddiqy&fontSize=42&fontColor=ffffff&desc=Fullstack%20%26%20Web3%20Backend%20Developer&descSize=20&descAlignY=62" alt="header"/>
-</a>
+<h1 align="center">M. Ulinuha As Shiddiqy</h1>
+
+<h3 align="center">⚡ Fullstack & Web3 Backend Developer</h3>
 
 <p align="center">
   <i>Building scalable APIs, smart contracts & end-to-end dApps across Solana, EVM & 0G.</i>
