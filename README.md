@@ -42,13 +42,6 @@ const ulinuha = {
 - 🧩 **Fullstack Delivery** — from PostgreSQL schemas to polished React/Next.js frontends
 - 🚀 **Shipping** — hackathon-grade products, deployed and live
 
-## 🏆 Highlights
-
-- 🥈 **Silver Medal** — NASFIA Research Competition
-- 🗣️ **Workshop Speaker / Instructor** — authored Sui & Move curriculum and smart contracts
-- 👥 **Batch Leader** — led 75+ peers; coordinated national-scale tech events
-- 🌐 Built backends serving **1000+ users** with high uptime
-
 ## 🚀 Tech Stack
 
 **Languages**
@@ -79,23 +72,10 @@ const ulinuha = {
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠️ Featured Projects
-
-| Project | Role | Stack |
-|---------|------|-------|
-| [**Wall of 0gents**](https://github.com/Lexirieru/wall-of-0gents) — a stock exchange for AI agents on 0G | Backend & Smart Contract | Solidity, ERC-7857, x402, Node.js |
-| [**Tredie**](https://github.com/AncungAulia/tredie) — on-chain perpetual market on Solana | Backend Developer | Rust/Anchor, Node.js, Express, Helius |
-| [**RoastWager**](https://github.com/Lin1er/RoastWager) — opinion + betting dApp on Monad | Fullstack Web3 | Solidity, Foundry, Next.js, viem |
-| [**Portfolio**](https://jameshub.fun) — SEO-first personal site | Fullstack | Next.js 16, TypeScript, Tailwind |
 
 ➡️ Explore everything on my portfolio: **[jameshub.fun](https://jameshub.fun)**
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lin1er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin1er&layout=compact&theme=algolia&langs_count=8"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lin1er&theme=algolia" alt="GitHub Streak"/>
