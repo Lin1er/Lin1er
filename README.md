@@ -13,11 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=lin1er&style=for-the-badge&color=6366f1&label=Profile+Views" alt="views"/>
 </p>
 
+<p align="center">
+  <a href="https://linktr.ee/ugmbcc"><img src="https://img.shields.io/badge/UGM_Blockchain_Club-Member-4f46e5?style=for-the-badge&logo=ethereum&logoColor=white" alt="UGM Blockchain Club"/></a>
+  <a href="https://x.com/ugmbcc"><img src="https://img.shields.io/badge/@ugmbcc-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="UGM BCC Twitter"/></a>
+  <a href="https://www.ugm.ac.id"><img src="https://img.shields.io/badge/Universitas_Gadjah_Mada-Information_Technology-003f7f?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="UGM"/></a>
+</p>
+
 ---
 
 ## 🕶️ About Me
 
-I'm **M. Ulinuha As Shiddiqy** — a **Fullstack & Web3 Backend Developer** and an Information Technology student at **Universitas Gadjah Mada**.
+I'm **M. Ulinuha As Shiddiqy** — a **Fullstack & Web3 Backend Developer** and an Information Technology student at **Universitas Gadjah Mada (UGM)**, Yogyakarta, Indonesia.
+
+I'm an active member of **[UGM Blockchain Club](https://linktr.ee/ugmbcc)** ([@ugmbcc](https://x.com/ugmbcc)), a student community at UGM focused on blockchain education, research, and building real Web3 products.
 
 My journey started in middle school, hacking together Discord bots and Minecraft servers just to see what I could make a computer do. That curiosity never left — it grew into building **production-grade backends, smart contracts, and full end-to-end decentralized applications**.
 
@@ -28,6 +36,7 @@ const ulinuha = {
   role: "Fullstack & Web3 Backend Developer",
   location: "Yogyakarta, Indonesia 🇮🇩",
   university: "Universitas Gadjah Mada — Information Technology",
+  community: "UGM Blockchain Club (@ugmbcc)",
   focus: ["Backend Engineering", "Smart Contracts", "dApps"],
   chains: ["Solana", "EVM", "0G", "SUI"],
   currentlyLearning: "Advanced on-chain architecture & scalable indexers",
@@ -41,6 +50,16 @@ const ulinuha = {
 - ⚙️ **Backend Engineering** — REST APIs, clean architecture, databases, real-time indexers & webhooks
 - 🧩 **Fullstack Delivery** — from PostgreSQL schemas to polished React/Next.js frontends
 - 🚀 **Shipping** — hackathon-grade products, deployed and live
+
+## 🏛️ University & Community
+
+| | |
+|---|---|
+| 🎓 **University** | [Universitas Gadjah Mada](https://www.ugm.ac.id) — Information Technology |
+| ⛓️ **Community** | [UGM Blockchain Club](https://linktr.ee/ugmbcc) · [@ugmbcc](https://x.com/ugmbcc) |
+| 📍 **Location** | Yogyakarta, Indonesia |
+
+> Building at the intersection of Web3 and academia — from university research to on-chain products.
 
 ## 🚀 Tech Stack
 
