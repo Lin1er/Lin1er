@@ -80,9 +80,13 @@ const ulinuha = {
 ![Laravel](https://img.shields.io/badge/Laravel-%23e4634c.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-%23000000.svg?style=for-the-badge&logo=anchor&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23FFCC00.svg?style=for-the-badge&logo=ethereum&logoColor=black)
 ![SUI Move](https://img.shields.io/badge/Sui%20Move-%234DA2FF.svg?style=for-the-badge&logo=sui&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-%23646CFF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ponder](https://img.shields.io/badge/Ponder-Indexer-6366f1?style=for-the-badge&logo=ethereum&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Frontend**
@@ -90,6 +94,12 @@ const ulinuha = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI & Automation**
+
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=llama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6366f1?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
 ➡️ Explore everything on my portfolio: **[jameshub.fun](https://jameshub.fun)**
