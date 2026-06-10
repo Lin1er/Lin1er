@@ -1,6 +1,6 @@
 <h1 align="center">M. Ulinuha As Shiddiqy</h1>
 
-<h3 align="center">⚡ Fullstack & Web3 Backend Developer</h3>
+<h3 align="center">Fullstack & Web3 Backend Developer</h3>
 
 <p align="center">
   <i>Building scalable APIs, smart contracts & end-to-end dApps across Solana, EVM & 0G.</i>
