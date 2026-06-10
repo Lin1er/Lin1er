@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/ugmbcc"><img src="https://img.shields.io/badge/UGM_Blockchain_Club-Member-4f46e5?style=for-the-badge&logo=ethereum&logoColor=white" alt="UGM Blockchain Club"/></a>
+  <a href="https://linktr.ee/ugmbcc"><img src="https://img.shields.io/badge/UGM_Blockchain_Club-Staff-4f46e5?style=for-the-badge&logo=ethereum&logoColor=white" alt="UGM Blockchain Club"/></a>
   <a href="https://x.com/ugmbcc"><img src="https://img.shields.io/badge/@ugmbcc-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="UGM BCC Twitter"/></a>
   <a href="https://www.ugm.ac.id"><img src="https://img.shields.io/badge/Universitas_Gadjah_Mada-Information_Technology-003f7f?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="UGM"/></a>
 </p>
